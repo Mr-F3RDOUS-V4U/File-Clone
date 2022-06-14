@@ -10,4 +10,4 @@ git clone https://github.com/ferdousvau1/File-Clone
 
 cd File-Clone
 
-python VIP-2022.py
+python2 VIP-2022.py
